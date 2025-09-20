@@ -1,4 +1,4 @@
-# Arduino Examples
+# Arduino C++ Examples
 
 [![Static check](https://github.com/jo3-tech/jm_arduino_examples/actions/workflows/static-check.yaml/badge.svg)](https://github.com/jo3-tech/jm_arduino_examples/actions/workflows/static-check.yaml) [![Build examples](https://github.com/jo3-tech/jm_arduino_examples/actions/workflows/build-examples.yaml/badge.svg)](https://github.com/jo3-tech/jm_arduino_examples/actions/workflows/build-examples.yaml)
 
