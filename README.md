@@ -2,9 +2,15 @@
 
 [![Static check](https://github.com/jo3-tech/jm_arduino_examples/actions/workflows/static-check.yaml/badge.svg)](https://github.com/jo3-tech/jm_arduino_examples/actions/workflows/static-check.yaml) [![Build examples](https://github.com/jo3-tech/jm_arduino_examples/actions/workflows/build-examples.yaml/badge.svg)](https://github.com/jo3-tech/jm_arduino_examples/actions/workflows/build-examples.yaml)
 
-Useful examples and algorithm implementations for the Arduino platform.
+Useful examples and algorithm implementations for the [Arduino platform](https://www.arduino.cc).
+
+The [Arduino programming language](https://www.arduino.cc/reference) is a subset of C/C++.
 
 This repository is a collection of examples, usually written during feasibility studies for the implementation of a library or project.
+
+All examples are tested on the Arduino Uno R3, but should be compatible with all Arduino architectures.
+
+The recommended method to build these examples is using the [Arduino IDE](https://www.arduino.cc/en/software).
 
 ## accelerate-stepper-motor
 
